@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>com.yashmathur.encoded.add_one_code</string>
+	<string>com.yashmathur.encoded.add_three_codes</string>
+	<string>com.yashmathur.encoded.unlock_system_keyboards</string>
+</array>
+</plist>
